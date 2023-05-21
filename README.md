@@ -1,5 +1,5 @@
-# GPT_Resume_analysing
-# GPT简历自动分析
+# ResumeGPT - GPT_Resume_analysing
+# ResumeGPT - GPT简历自动分析
 Using Langchain and OpenAI to analyse resume
 
 基于Langchain和OpenAI完成以下数据处理：
